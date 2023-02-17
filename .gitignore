@@ -3,5 +3,12 @@ Thumbs.db
 db.json
 *.log
 node_modules/
+themes/
+source/
+scaffolds/
 .deploy*/
 _multiconfig.yml
+_config.landscape.yml
+_config.yml
+package-lock.json
+package.json
